@@ -15,13 +15,6 @@ This course is an introduction to programming using Python, focusing on a variet
 - Regular Expressions
 - Object-Oriented Programming
 
-## 📂 Repository Structure
-I have organized the project by weeks to keep it clean:
-- `Week 0/` - Functions, Variables
-- `Week 1/` - Conditionals
-- `Week 2/` - Loops
-- ... and so on.
-
 ## 🛠️ Tools Used
 - Language: Python 3.x
 - IDE: PyCharm / CS50.dev
