@@ -21,7 +21,7 @@ This course is an introduction to programming using Python, focusing on a variet
 - Version Control:* Git & GitHub
 
 ## ✅ Progress Tracker
-[Week 00](Week 00/) → Functions, Variables
+- Week 00 → Functions, Variables
 
 ---
 Happy Coding! 👨‍💻
